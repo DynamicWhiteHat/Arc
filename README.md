@@ -1,6 +1,9 @@
 # Arc
 A Wireless 75% Backlit Keyboard
 
+> [!NOTE]
+> Firmware available [here](https://github.com/DynamicWhiteHat/ArcFirmware)
+
 ## Features:
 - HolyIOT 18010 MCU
 - RGB backlight and underglow
@@ -8,14 +11,51 @@ A Wireless 75% Backlit Keyboard
 - Wireless ZMK firmware
 
 ## Image Gallery:
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="assets/FreedomFront.png" width="400" />
+    </td>
+    <td align="center">
+      <img src="assets/FreedomBack.png" width="400" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <img src="assets/Arcv2Transparent.png" width="400" />
+    </td>
+  </tr>
+</table>
 
 ## Why I Designed This Project:
+
+After designing Corneucopia, I decided that I wanted to create a regular keyboard. I have attempted to make many in the past, but
+I never got around to finishing them. Now that I had experience making a wireless split, I decided to make a wireless regular. This was also a test of making a PCB with just the MCU. Previously, I have made PCBs with the ESP32 SoM, but this was my first chip PCB that didn't use the ESP32.
+
+## Schematics And PCBS:
+<table align="center">
+  <tr>
+    <td align="center" colspan="2">
+      <img width="4960" height="3507" alt="image" src="![alt text](assets/Schematic.png)" />
+    </td>
+  </tr>
+  <tr>
+     <td align="center">
+      <img width="350" height="480" alt="image" src="![alt text](assets/PCBFront.png)" />
+    </td>
+    <td align="center">
+      <img width="334" height="480" alt="image" src="![alt text](assets/PCBBack.png)" />
+    </td>
+  </tr>
+</table>
 
 ## Mounting:
 The project features a design that keeps all screws hidden on the inside of the case, keeping a seamless look on the outside. This design has already been applied in [Corneucopia](https://github.com/DynamicWhiteHat/Corneucopia/). The PCB is screwed into the bottom case using 4 M2 screws. The top case is held in place by the hot-swappable switches.
 
 ![alt text](assets/image.png)
+
+## Technical Details:
+Powered by a HolyIOT 18010, running ZMK firmware, this board supports a wireless bluetooth connection. It uses the SK6812 mini-e for per-key RGB, and regular the sk6812 mini for underglow. 
 
 ## BOM:
 | Part                        | Quantity        | Price              | Link                                                                                     |                 |                |          |                                                   |
