@@ -22,7 +22,7 @@ A Wireless 75% Backlit Keyboard
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="assets/Arcv2Transparent.png" width="400" />
+      <img src="assets/ArcV2Transparent.png" width="400" />
     </td>
   </tr>
 </table>
