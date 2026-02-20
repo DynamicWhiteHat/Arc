@@ -36,15 +36,15 @@ I never got around to finishing them. Now that I had experience making a wireles
 <table align="center">
   <tr>
     <td align="center" colspan="2">
-      <img width="4960" height="3507" alt="image" src="![alt text](assets/Schematic.png)" />
+      <img width="4960" height="3507" alt="image" src="assets/Schematic.png" />
     </td>
   </tr>
   <tr>
      <td align="center">
-      <img width="350" height="480" alt="image" src="![alt text](assets/PCBFront.png)" />
+      <img width="350" height="480" alt="image" src="assets/PCBFront.png" />
     </td>
     <td align="center">
-      <img width="334" height="480" alt="image" src="![alt text](assets/PCBBack.png)" />
+      <img width="334" height="480" alt="image" src="assets/PCBBack.png" />
     </td>
   </tr>
 </table>
