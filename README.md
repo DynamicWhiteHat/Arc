@@ -49,8 +49,8 @@ I never got around to finishing them. Now that I had experience making a wireles
   </tr>
 </table>
 
-## Mounting:
-The project features a design that keeps all screws hidden on the inside of the case, keeping a seamless look on the outside. This design has already been applied in [Corneucopia](https://github.com/DynamicWhiteHat/Corneucopia/). The PCB is screwed into the bottom case using 4 M2 screws. The top case is held in place by the hot-swappable switches.
+## Usage:
+The project features a design that keeps all screws hidden on the inside of the case, keeping a seamless look on the outside. This design has already been applied in [Corneucopia](https://github.com/DynamicWhiteHat/Corneucopia/). The PCB is screwed into the bottom case using 4 M2 screws. The top case is held in place by the hot-swappable switches. Once the PCB is assembled and the case is build, load the AdaFruit nrf52840 bootloader onto it, available [here](https://github.com/adafruit/Adafruit_nRF52_Bootloader). Follow [this guide](https://github.com/joric/nrfmicro/wiki/Bootloader) for more help. After adding the bootloader, enter dfu mode using the reset button and upload the .uf2 file from the firmware folder on this repository. The keyboard is now ready.
 
 ![alt text](assets/image.png)
 
