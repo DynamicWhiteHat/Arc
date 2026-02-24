@@ -54,8 +54,8 @@ The project features a design that keeps all screws hidden on the inside of the 
 
 ![alt text](assets/image.png)
 
-## Technical Details:
-Powered by a HolyIOT 18010, running ZMK firmware, this board supports a wireless bluetooth connection. It uses the SK6812 mini-e for per-key RGB, and regular the sk6812 mini for underglow. 
+## Details:
+Powered by a HolyIOT 18010, running ZMK firmware, this board supports a wireless Bluetooth connection. It uses the SK6812 mini-e for per-key RGB, and regular the sk6812 mini for underglow. A laser-cut stencil will be used to help with PCB assembly.
 
 ## BOM:
 | Part                        | Quantity        | Price              | Link                                                                                     |                 |                |          |                                                   |
