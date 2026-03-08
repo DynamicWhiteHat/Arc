@@ -1,14 +1,13 @@
 Part,Quantity,Price,Link,,,,
-PCB,1 Order,$34.43,JLCPCB Quote,,,,
+PCB + Stencil,1 Order,$40.56,JLCPCB Quote,,,,
 PCB Parts,1 Order,$32.22,See LCSC BOM,,,,
-Switches,1 Pack Of 90,$22.80,https://www.amazon.com/KPREPUBLIC-Outemu-Mechanical-Keyboard-Tactile/dp/B0BZ48GW7K/,,,,
+Switches,2 Packs of 50,$19.82,https://www.aliexpress.us/item/3256806837508228.html,,,,
 Hotswaps,1 Pack Of 100,$9.45,https://www.aliexpress.us/item/2251832764937566.html,,,,
-Stabilizers,1 Pack,$18.99,https://www.amazon.com/DUROCK-Stabilizers-Translucent-Keyboard-Mechanical/dp/B0B2RR8YB3/,,,,
+Stabilizers,1 Pack,$17.99,https://www.amazon.com/DUROCK-Stabilizers-Translucent-Keyboard-Mechanical/dp/B0B2RR8YB3/,,,,
 HolyIOT 18010 MCU,1,$12.84,https://www.aliexpress.us/item/3256804605353119.html,,,,
 Keycaps,1,$23.92,https://www.aliexpress.com/i/3256807057714410.html,,,,
-Plastic Sheet For Stencil,1,$12.99,https://www.amazon.com/dp/B09Q14HNVD,,,,
 Lipo Battery,1,$10.49,https://www.amazon.com/Qimoo-Battery-Rechargeable-Connector-Electronic/dp/B0CNLNKSKK/,,,,
-,,$178.13,,,,,
+,,$167.29,,,,,
 LCSC,,,,,,,
 Description,Quantity Needed,Mrf#,Minimum Order Qty.,Unit Price(USD),Ext.Price(USD),LCSC#,Product Link
 1.5k,1,0603WAF1501T5E,100,0.0012,0.12,C22843,https://www.lcsc.com/product-detail/C22843.html
